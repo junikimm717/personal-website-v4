@@ -2,7 +2,7 @@
   <h1 class="text-4xl font-extrabold">Juni Kim</h1>
   <main class="grid grid-flow-row grid-cols-1 gap-5 my-5 md:grid-cols-2">
     <nuxt-img
-      src="profile.jpg"
+      src="/profile.jpg"
       width="300"
       class="w-40 rounded-xl"
       alt="Profile Photo"

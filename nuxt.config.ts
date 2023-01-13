@@ -7,6 +7,9 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  image: {
+    // Options
+  },
   app: {
     head: {
       charset: "utf-8",
