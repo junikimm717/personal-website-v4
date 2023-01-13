@@ -1,9 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   modules: ["@nuxtjs/tailwindcss"],
-  nitro: {
-    preset: "netlify",
-  },
   postcss: {
     plugins: {
       tailwindcss: {},
@@ -16,7 +13,7 @@ export default defineNuxtConfig({
       viewport: "width=500, initial-scale=1",
       title: "Juni Kim",
       meta: [
-        { name: "description", content: "I am a junior at Stanford OHS." },
+        {name: "description", content: "I am a junior at Stanford OHS."},
       ],
     },
   },
