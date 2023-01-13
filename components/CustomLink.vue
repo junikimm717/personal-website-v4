@@ -9,7 +9,7 @@ defineProps({
     :href="href"
     target="_blank"
     rel="noreferrer"
-    class="underline hover:text-green-800 decoration-green-800 dark:hover:text-green-500 dark:decoration-green-500"
+    class="underline hover:text-teal-800 decoration-teal-800 dark:hover:text-teal-500 dark:decoration-teal-500"
   >
     <slot />
   </a>

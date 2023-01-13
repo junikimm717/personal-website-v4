@@ -1,5 +1,5 @@
 <template>
-  <h1 class="mb-5 text-4xl font-extrabold">School</h1>
+  <h1 class="mb-5 text-4xl font-extrabold">Selected Awards</h1>
   <main class="my-5">
     <ul class="list-disc list-inside">
       <li>
